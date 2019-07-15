@@ -1,1 +1,2 @@
 # MASH
+A player is asked about certain future outcomes, like what kind of car they’ll have, how much money they’ll make, or how many children they’ll have. After a little random picking (usually with a random and a process of elimination) the player’s future is determined! 
